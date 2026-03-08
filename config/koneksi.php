@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost","root","","u533429432_db");
+$conn = mysqli_connect("localhost","root","","ecommerce");
 
 if(!$conn){
     die("Koneksi database gagal");
